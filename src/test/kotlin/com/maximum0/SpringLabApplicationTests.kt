@@ -1,4 +1,4 @@
-package com.maximum0.springlab
+package com.maximum0
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

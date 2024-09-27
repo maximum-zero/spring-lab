@@ -1,4 +1,4 @@
-package com.maximum0.springlab
+package com.maximum0
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

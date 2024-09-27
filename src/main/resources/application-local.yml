@@ -2,7 +2,7 @@ spring:
   application:
     name: spring-lab
   datasource:
-    url: jdbc:postgresql://localhost:5432/spring_lab
+    url: jdbc:postgresql://localhost:5435/spring_lab
     username: maximum0
     password: maximum0
   jpa:
